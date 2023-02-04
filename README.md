@@ -1,16 +1,15 @@
-<img src="https://i.imgur.com/KiagMZ4.png" alt="Hi"/>
 
-<!--
-**Tanasittx/Tanasittx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanasit-aintakhan-18aa93247/) 
 
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tanasitistg&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanasitistg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanasitistg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- Discord : erc#8929
-- <img src="https://camo.githubusercontent.com/3999d6f4d8b4ff745fdee53a9143b19383ea7581dc059744659ef8800cfa5c9a/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d54616e617369747478" alt="visitor badge"/>
+---
+[![](https://visitcount.itsvg.in/api?id=tanasitistg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mkathciyhulhq0wd9nz0jyp0l&cover_image=true&theme=default)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tanasittx&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanasittx&theme=dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
